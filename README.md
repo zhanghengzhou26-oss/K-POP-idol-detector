@@ -1,3 +1,5 @@
+KPOP idol detector
+
 本项目主要由CHATGPT完成。
 
 这两个程序一个是用于制作检测权重，一个是用于检测。
